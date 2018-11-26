@@ -42,7 +42,7 @@
 
 <script id="search_footer_template" type="text/template">
     <div class="footer">
-        <a target="_blank" href="http://www.algolia.com/?utm_source=lavarel&utm_medium=link&utm_campaign=lavarel_documentation_search">
+        <a target="_blank" href="https://github.com/teamtnt/tntsearch">
             <div class="powered">powered by TNTSearch</div>
             <div style="clear: both"></div>
         </a>
